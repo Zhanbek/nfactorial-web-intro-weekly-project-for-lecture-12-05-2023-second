@@ -1,0 +1,149 @@
+
+.page {
+    outline: 20px solid black;        
+}
+
+.page-header {
+    outline: 2px solid red;
+}
+
+.magnifier-link {
+    outline: 2px solid blueviolet;
+}
+
+.jumys-tap-link {
+    outline: 2px solid green;
+}
+
+.page-header-left-links {
+    outline: 2px solid blue;
+}
+
+.navigation-list {
+    outline: 2px solid orange;
+}
+
+.navigation-item {
+    outline: 2px solid grey;
+}
+
+.navigation-link {
+    outline: 2px solid black;
+}
+
+.navigation-button {
+    outline: 2px solid hotpink;
+}
+
+.main-index {
+    outline: 2px solid black;
+}
+
+.promo {
+    outline: 2px solid green;
+}
+
+.greeting {
+    outline: 2px solid blue;
+}
+
+.hi {
+    outline: 2px solid red;
+}
+
+.portfolio {
+    outline: 2px solid yellow;
+}
+
+.invitation {
+    outline: 2px solid red;
+}
+
+.invitation-description {
+    outline: 2px solid green;
+}
+
+.howItWorks-section {
+    outline: 2px solid red;
+}
+
+.howItWorks-info {
+    outline: 2px solid black;
+}
+
+.howItWorks-title {
+    outline: 2px solid green;
+}
+
+.howItWorks-list {
+    outline: 2px solid hotpink;
+}
+
+.howItWorks-item {
+    outline: 2px solid gray;
+}
+
+.find-job {
+    outline: 2px solid black;
+}
+
+.find-job-form {
+    outline: 2px solid brown;
+}
+
+.find-job-title {
+    outline: 2px solid green;
+}
+
+.find-job-description {
+    outline: 2px solid fuchsia;
+}
+
+.find-job-input-fields {
+    outline: 2px solid gray; 
+}
+
+.submission {        
+    outline: 2px solid black;
+}
+
+.submission-container {
+    outline: 2px dashed fuchsia;
+}
+
+.upload-CV-form {
+    outline: 2px solid green;
+}
+
+.upload-CV-title {
+    outline: 2px solid blue;
+}
+
+.upload-CV-description {
+    outline: 2px solid orange;
+}
+
+.page-footer {
+    outline: 5px dashed red;
+}
+
+.page-footer-container {
+    outline: 2px solid blue;
+}
+
+.social-networks-list {
+    outline: 2px solid orange;
+}
+
+
+.social-networks-link {
+    outline: 2px solid green;
+}
+
+.credits-container  {
+    outline: 2px solid gray;
+}
+
+.credits {
+    outline: 2px solid pink;
+}
