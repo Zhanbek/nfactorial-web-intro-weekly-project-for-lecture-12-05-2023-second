@@ -93,32 +93,44 @@
         margin: 0;        
     }
 
+    .promo-container {
+        display: block;
+        padding: 160px 80px;
+        height: 622px;    
+        background: #130125;
+        border-top: 1px solid rgba(255, 255, 255, 0.2);
+        box-sizing: border-box;        
+    }
+
     .promo {
         display: flex;
         flex-direction: column;
         justify-content: space-between;
-        padding: 160px 80px;
-        height: 206px;        
+        height: 302px;
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
     }
 
     .greeting {
         display: flex;
         flex-direction: column;
         justify-content: space-between;
-        margin: 0;
-        margin-bottom: 40px;
+        margin: 0 0 40px 0;
+        padding: 0;
+        height: 206px;
+        box-sizing: border-box;
     }
 
     .hi {
-        width: 1280px;
         font-family: 'Courier New';
         font-style: normal;
         font-weight: 700;
         font-size: 60px;
         line-height: 72px;        
         color: #FFFFFF;      
-        margin: 0;
-        margin-bottom: 32px;          
+        margin: 0 0 32px 0;    
+        box-sizing: border-box;      
     }
 
     .portfolio {
@@ -128,7 +140,8 @@
         font-weight: 300;
         font-size: 20px;
         line-height: 30px;
-        color: #FFFFFF;         
+        color: #FFFFFF;       
+        box-sizing: border-box;  
     }
 
     .CV {
