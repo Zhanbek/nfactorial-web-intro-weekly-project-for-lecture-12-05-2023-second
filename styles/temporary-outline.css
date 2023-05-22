@@ -64,3 +64,11 @@ main
 .portfolio {
     outline: 1px solid red;  
 }
+
+.about-container {
+    outline: 1px solid orange; 
+}
+
+.about {
+    outline: 1px solid gray; 
+}
