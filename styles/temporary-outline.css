@@ -66,9 +66,33 @@ main
 }
 
 .about-container {
-    outline: 1px solid orange; 
+    outline: 3px dashed green; 
 }
 
 .about {
-    outline: 1px solid gray; 
+    outline: 1px solid navy; 
+}
+
+.about-text {
+    outline: 5px dashed black; 
+}
+
+.about-description-container {
+    outline: 1px solid white; 
+}
+
+.about-text-header {
+    outline: 1px solid purple; 
+}
+
+.skills-container {    
+    outline: 1px solid blueviolet;      
+}
+
+.skills-left-list {
+    outline: 1px solid green;       
+}
+
+.skills-right-list {
+    outline: 1px solid blue;                
 }
