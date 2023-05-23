@@ -180,18 +180,37 @@
         border: 4px solid #FD5A14;       
     }
 
-    .about-description-container {
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-        align-items: flex-start;
-        
-        margin: 0;
-        padding: 0;
-        
+    .about-description-container {        
+        margin: 0 0 40px 0;
+        padding: 0;        
         width: 629px;
-        height: 194px;
-            
+        height: 194px;            
+    }
+
+    .about-text-header {
+        width: 629px;
+        height: 72px;        
+        font-family: 'Courier New';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 60px;
+        line-height: 72px;        
+        color: #FFFFFF;
+        margin: 0 0 32px 0;
+        padding: 0;
+    }
+
+    .about-text-description {
+        width: 629px;
+        height: 90px;        
+        font-family: 'Kanit';
+        font-style: normal;
+        font-weight: 300;
+        font-size: 20px;
+        line-height: 30px;        
+        color: #FFFFFF;
+        margin: 0;
+        padding: 0;        
     }
 
     .skills-container {    

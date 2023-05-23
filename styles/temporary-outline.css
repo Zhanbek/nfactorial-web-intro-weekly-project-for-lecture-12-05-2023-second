@@ -77,12 +77,18 @@ main
     outline: 5px dashed black; 
 }
 
-.about-description-container {
-    outline: 1px solid white; 
+.about-text-description {
+    outline: 3px dashed yellow; 
+
 }
 
 .about-text-header {
     outline: 1px solid purple; 
+}
+
+
+.about-description-container {
+    outline: 1px solid white; 
 }
 
 .skills-container {    
