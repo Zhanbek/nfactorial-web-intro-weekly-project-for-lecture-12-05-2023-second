@@ -102,3 +102,11 @@ main
 .skills-list-item {
     outline: 1px solid blue;                
 }
+
+.experience-container {
+    outline: 1px solid white; 
+}
+
+.experience-info {
+    outline: 3px dashed green; 
+}
