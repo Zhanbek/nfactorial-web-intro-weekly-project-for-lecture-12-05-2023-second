@@ -255,6 +255,57 @@
         height: 598px;       
     }
 
+    .experience-header {
+        margin: 0 0 64px 0;
+        padding: 0;
+        height: 72px;        
+    }
+
+    .experience-list {
+        display: flex;
+        margin: 0;
+        padding: 0;        
+        height: 462px;        
+    }
+
+    .experience-list-item {
+        display: grid;
+        grid-template-columns: 1fr 9fr;
+        column-gap: 20px;
+        margin: 0 0 48px 0;
+        padding: 0;
+        height: 140px;
+    }
+
+    .experience-list-item-period-container {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: flex-start;
+        margin: 0;
+        padding: 0;
+        height: 140px;
+    }
+
+    .experience-list-item-period {
+        margin: 0;
+        padding: 0;
+        height: 22px;
+        font-family: 'Courier New';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 12px;
+        line-height: 22px;
+        color: #FFFFFF;        
+    }
+    
+    .experience-list-item-description {
+        display: grid;
+        grid-template-columns: 1fr 9fr;
+        margin: 0 0 48px 0;
+        padding: 0;
+    }
+
     .CV {
         height: 56px;        
     }

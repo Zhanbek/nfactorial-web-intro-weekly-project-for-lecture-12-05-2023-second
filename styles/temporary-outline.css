@@ -110,3 +110,15 @@ main
 .experience-info {
     outline: 3px dashed green; 
 }
+
+.experience-header {
+    outline: 1px solid yellow;            
+}
+
+.experience-list {
+    outline: 1px solid black;            
+}
+
+.experience-list-item {
+    outline: 1px solid red;            
+}
