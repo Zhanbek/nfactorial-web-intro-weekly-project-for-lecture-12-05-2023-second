@@ -213,35 +213,29 @@
         padding: 0;        
     }
 
-    .skills-container {    
-        display: flex;
-        justify-content: space-between;
+    .skills-list {    
+        display: grid;
+        grid-template-columns: repeat(2, 305px);
+        column-gap: 20px;
+        row-gap: 24px;
         margin: 0;
         padding: 0;        
         width: 630px;
-        height: 68px;        
-    }
-
-    .skills-left-list {
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-        align-items: flex-start;
-        margin: 0;
-        padding: 0;
-        width: 305px;
-        height: 68px;        
-    }
-
-    .skills-right-list {
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-        align-items: flex-start;
-        margin: 0;
-        padding: 0;
-        width: 305px;
         height: 68px;                
+    }
+
+    .skills-list-item {
+        display: block;
+        margin: 0;
+        padding: 0;
+        width: 305px;
+        height: 22px;        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 22px;        
+        color: #FFFFFF;   
     }
 
     .CV {

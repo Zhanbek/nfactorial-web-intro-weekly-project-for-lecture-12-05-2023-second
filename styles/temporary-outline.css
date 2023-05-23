@@ -95,10 +95,10 @@ main
     outline: 1px solid blueviolet;      
 }
 
-.skills-left-list {
+.skills-list {
     outline: 1px solid green;       
 }
 
-.skills-right-list {
+.skills-list-item {
     outline: 1px solid blue;                
 }
