@@ -253,8 +253,7 @@
         display: block;
         margin: 0;
         padding: 0;        
-        height: 598px;  
-        width: 80%;    
+        height: 598px;          
     }
 
     .experience-header {
@@ -316,8 +315,7 @@
         font-weight: 700;
         font-size: 12px;
         line-height: 22px;
-        color: #FFFFFF; 
-        text-align: center;  
+        color: #FFFFFF;         
         box-sizing: border-box;         
     }
     
@@ -365,7 +363,29 @@
         color: #FFFFFF;
         box-sizing: border-box;      
     }
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+    
+    .experience-list-item-city-container {
+        display: grid;
+        grid-template-columns: 22px 1fr;
+        column-gap: 12px;
+        margin: 0 0 8px 0;
+        padding: 0;
+        width: 100%;
+        height: 22px;
+        box-sizing: border-box;      
+    }
+    
+    .experience-list-item-city-pointer {
+        display: block;
+        margin: 0;
+        padding: 0;
+        width: 22px;
+        height: 22px;        
+        border-radius: 24px;
+        box-sizing: border-box;      
+        background-image: url("../images/icons/almaty.gif");
+    }
+
     .experience-list-item-city {
         width: 100%;
         height: 22px;  
