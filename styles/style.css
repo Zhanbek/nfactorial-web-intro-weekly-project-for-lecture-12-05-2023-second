@@ -300,6 +300,40 @@
     }
     
     .experience-list-item-description {
+
+    }
+
+    .experience-list-item-role {
+        display: block;
+        margin: 0;
+        padding: 0;
+        width: 305px;
+        height: 22px;
+    }
+
+    .experience-list-item-role-pointer {
+        display: block;
+        margin: 0;
+        padding: 0;
+        width: 22px;
+        height: 22px;
+        background: #FD5A14;
+        border-radius: 24px;
+    }
+
+    .experience-list-item-role-text {
+        display: block;
+        width: 271px;
+        height: 22px;        
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 22px;
+        color: #FFFFFF;
+    }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+    .experience-list-item-description {
         display: grid;
         grid-template-columns: 1fr 9fr;
         margin: 0 0 48px 0;
@@ -748,4 +782,6 @@
         line-height: 18px;        
         color: #081E34;        
     }
+
+
   /* } */

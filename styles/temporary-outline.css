@@ -122,3 +122,30 @@ main
 .experience-list-item {
     outline: 1px solid red;            
 }
+
+.experience-list-item-period-container {
+    outline: 1px solid white; 
+}
+
+.experience-list-item-period {
+    outline: 1px solid green; 
+}
+
+.experience-list-item-description {
+    outline: 1px solid blue; 
+}
+
+.experience-list-item-role {
+    outline: 1px solid gray; 
+}
+
+.experience-list-item-role-pointer {
+    outline: 1px solid yellow; 
+}
+
+.experience-list-item-role-text {
+    outline: 1px solid red; 
+}
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+.experience-list-item-description {
+}
