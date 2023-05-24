@@ -180,6 +180,22 @@ main
     outline: 1px solid pink;       
 }
 
-.my-first-project{
+.my-first-project {
     outline: 1px solid red;    
+}
+
+.my-first-project-description {
+    outline: 1px solid white;    
+}
+
+.my-first-project-about {
+    outline: 1px solid yellow;     
+}
+
+.my-first-project-title {
+    outline: 1px solid violet;    
+}
+
+.my-first-project-role {
+    outline: 1px solid blue;    
 }
