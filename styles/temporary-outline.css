@@ -147,5 +147,11 @@ main
     outline: 1px solid red; 
 }
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
-.experience-list-item-description {
+
+.experience-list-item-city {
+    outline: 1px solid white; 
+}
+
+.experience-list-item-responsobilites {
+    outline: 1px solid blue;    
 }
