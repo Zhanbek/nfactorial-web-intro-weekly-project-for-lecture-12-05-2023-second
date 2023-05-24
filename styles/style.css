@@ -243,7 +243,7 @@
         display: block;
         margin: 0;
         padding: 160px 80px;
-        height: 918px;        
+        height: 1002px;        
         background: #130125;
         border-top: 1px solid rgba(255, 255, 255, 0.2);                     
         box-sizing: border-box;
@@ -407,10 +407,24 @@
         font-size: 14px;
         line-height: 18px;
         color: #FFFFFF;     
-        margin: 0 0 0 0;
+        margin: 0;
         padding: 0;           
     }
 
+    .my-projects-header {
+        margin: 0;
+        padding: 160px 80px 64px;
+        height: 296px;
+        background: #130125;
+        border-top: 1px solid rgba(255, 255, 255, 0.2);
+    }
+
+    .my-projects-header-title {
+        display: block;
+        width: 1280px;
+        height: 72px;
+
+    }
 
     .CV {
         height: 56px;        
