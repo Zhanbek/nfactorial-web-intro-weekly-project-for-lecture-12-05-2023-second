@@ -253,7 +253,7 @@
         display: block;
         margin: 0;
         padding: 0;        
-        height: 598px;          
+        height: 652px;          
     }
 
     .experience-header {
@@ -284,7 +284,7 @@
 
     .experience-list-item {
         display: grid;
-        grid-template-columns: 20% 80%;
+        grid-template-columns: 40% 60%;
         column-gap: 20px;
         padding: 0;
         height: 140px;
