@@ -257,8 +257,18 @@
 
     .experience-header {
         margin: 0 0 64px 0;
-        padding: 0;
-        height: 72px;        
+        padding: 0;        
+        width: 629px;
+        height: 72px;
+        
+        font-family: 'Courier New';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 60px;
+        line-height: 72px;
+        
+        color: #FFFFFF;
+                
     }
 
     .experience-list {
