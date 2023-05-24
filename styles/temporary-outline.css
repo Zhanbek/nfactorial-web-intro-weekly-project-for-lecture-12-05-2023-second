@@ -171,3 +171,15 @@ main
 .my-projects-header-title {
     outline: 1px solid pink;    
 }
+
+.my-projects-list {
+    outline: 1px solid blue;   
+}
+
+.my-first-project-item {
+    outline: 1px solid pink;       
+}
+
+.my-first-project{
+    outline: 1px solid red;    
+}

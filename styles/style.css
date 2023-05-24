@@ -433,6 +433,39 @@
         color: #FFFFFF;        
     }
 
+    .my-projects-list {
+        margin: 0;
+        padding: 0;
+        display: block;
+        list-style-type: none;
+    }
+
+    .my-first-project-item {
+        display: block;
+        margin: 0;
+        padding: 64px 80px;
+        height: 516px;        
+        background: #130125;
+        box-sizing: border-box;
+    }
+
+    .my-first-project{
+        display: grid;
+        grid-template-columns: 626px 1fr;
+        column-gap: 186px;
+        margin: 0;
+        padding: 0;
+        height: 388px;    
+    }
+
+    .my-first-project-image {
+        box-sizing: border-box;
+        width: 626px;
+        height: 388px;                
+        border: 4px solid #FD5A14;
+    }
+
+
     .CV {
         height: 56px;        
     }
