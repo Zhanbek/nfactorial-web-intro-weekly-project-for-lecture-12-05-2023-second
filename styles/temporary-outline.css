@@ -199,3 +199,20 @@ main
 .my-first-project-role {
     outline: 1px solid blue;    
 }
+
+.say-me-hello-container {
+    outline: 1px solid white; 
+}
+
+.say-me-hello {
+ outline: 1px solid green; 
+}
+
+.who-is-i {
+    outline: 1px solid gray; 
+}
+
+.say-me-hello-button-container {
+    outline: 1px solid red; 
+}
+
