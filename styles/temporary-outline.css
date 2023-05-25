@@ -200,6 +200,10 @@ main
     outline: 1px solid blue;    
 }
 
+.contacts-container {
+    outline: 1px solid white;    
+}
+
 .say-me-hello-container {
     outline: 1px solid white; 
 }
