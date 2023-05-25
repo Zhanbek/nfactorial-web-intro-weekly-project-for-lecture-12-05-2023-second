@@ -216,3 +216,10 @@ main
     outline: 1px solid red; 
 }
 
+.page-footer {
+    outline: 1px solid green; 
+}
+
+.page-footer-container {
+    outline: 1px solid yellow; 
+}
